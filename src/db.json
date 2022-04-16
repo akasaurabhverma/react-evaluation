@@ -1,0 +1,19 @@
+{
+  "countries": {
+    "india": {
+      "delhi": {
+        "population": 10929343
+      }
+    },
+    "sri lanka": {
+      "colombo": {
+        "population": 3351134
+      }
+    },
+    "usa": {
+      "chicago": {
+        "population": 8484229
+      }
+    }
+  }
+}
